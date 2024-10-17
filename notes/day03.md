@@ -1,4 +1,4 @@
-## **Input/Output, String Manipulation, and Comments by #Engineeringinkannada**
+## **Input/Output, String Manipulation, and Comments #Engineeringinkannada**
 
 ### **1. Input and Output in Python**
 
