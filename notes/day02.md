@@ -1,4 +1,4 @@
-## **Python Basics - 1 by #Engineeringinkannada **
+## Python Basics - 1 by #Engineeringinkannada 
 
 ### **1. Variables in Python**
 Variables in Python are used to store data values. They are created when you assign a value to them, and you don’t need to declare their type (Python is dynamically typed).
